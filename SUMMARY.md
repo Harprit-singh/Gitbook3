@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Activity 3.1](README.md)
 
